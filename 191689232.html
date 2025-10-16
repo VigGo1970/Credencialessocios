@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Credencial de Francisca Acuña Briones</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+        :root {
+            --color-primario: #005A9C;
+            --color-fondo: #eef2f7;
+            --color-blanco: #fff;
+        }
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: var(--color-fondo);
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .card {
+            background: var(--color-blanco);
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            width: 350px;
+            overflow: hidden;
+            text-align: center;
+        }
+        .card-header {
+            background-color: var(--color-primario);
+            color: var(--color-blanco);
+            padding: 20px;
+        }
+        .card-header h2 {
+            margin: 0;
+            font-size: 1.2em;
+        }
+        .card-body {
+            padding: 30px;
+        }
+        .profile-pic {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 5px solid var(--color-blanco);
+            margin-top: -85px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        .member-name {
+            font-size: 1.8em;
+            margin-top: 20px;
+            color: var(--color-primario);
+            font-weight: 700;
+        }
+        .member-rut, .member-position {
+            color: #555;
+            font-size: 1.1em;
+            margin: 5px 0;
+        }
+        .card-footer {
+            background-color: #f7f7f7;
+            padding: 15px;
+            font-size: 0.9em;
+            color: #777;
+            border-top: 1px solid #eee;
+        }
+        .verified-badge {
+            background-color: #28a745;
+            color: white;
+            padding: 5px 15px;
+            border-radius: 20px;
+            display: inline-block;
+            margin-top: 15px;
+            font-weight: 700;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="card-header">
+            <h2>ASOCIACIÓN GREMIAL</h2>
+        </div>
+        <div class="card-body">
+            <img src="https://via.placeholder.com/150" alt="Foto de Francisca Acuña Briones" class="profile-pic">
+            <h1 class="member-name">Francisca Acuña Briones</h1>
+            <p class="member-rut">RUT: 19168923-2</p>
+            <p class="member-position">Enfermera Urgencias</p>
+            <div class="verified-badge">✓ SOCIO HABILITADO</div>
+        </div>
+        <div class="card-footer">
+            Válido hasta: <strong>INDEFINIDO</strong>
+        </div>
+    </div>
+</body>
+</html>
