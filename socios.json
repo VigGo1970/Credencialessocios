@@ -1,0 +1,681 @@
+[
+  {
+    "nombre": " Ana Del Solar",
+    "rut": "18856577-8",
+    "cargo": "Enfermera Urgencias",
+    "foto": "https://i.imgur.com/65wvhVl.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": " Betzy Carriman San Martin",
+    "rut": "18267789-2",
+    "cargo": "Enfermera UTI",
+    "foto": "https://i.imgur.com/8YCiWMA.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Abigail Muñoz",
+    "rut": "15777929-k",
+    "cargo": "Enfermera UCI",
+    "foto": "https://i.imgur.com/UFnuaGd.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Alexis Eduardo Solis Quijada",
+    "rut": "15878177-8",
+    "cargo": "Enfermero Medicina",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Angela Apablaza Figueroa",
+    "rut": "15491149-9",
+    "cargo": "Enfermera Cirugia",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Angelica Savignone Fuentes",
+    "rut": "8563039-3",
+    "cargo": "Enfermera Cirugía",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Annette Valdes Villablanca",
+    "rut": "14028427-0",
+    "cargo": "Enfermera pabellón",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Arlet Carrasco Badilla",
+    "rut": "15515338-5",
+    "cargo": "Enfermera Cirugia",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Camila Andrade Rivas ",
+    "rut": "19072828-5",
+    "cargo": "Enfermera CAE",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Camila Bustamante Albornoz",
+    "rut": "19653085-1",
+    "cargo": "Enfermera UGCC",
+    "foto": "https://i.imgur.com/VJKyfYD.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Camila Llanos Morales ",
+    "rut": "19652762-1",
+    "cargo": "Enfermera UE",
+    "foto": "https://i.imgur.com/rU53HCJ.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Camila Mendez Morales ",
+    "rut": "20111667-8",
+    "cargo": "Enfermera Traumatología ",
+    "foto": "https://i.imgur.com/C0uumCH.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Camila Elena Manriquez Rodriguez",
+    "rut": "17695922-3",
+    "cargo": "Enfermera GRD",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Carla Lagos Orbenes",
+    "rut": "13602777-8",
+    "cargo": "Enfermera Medicina",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Carlos Riffo Contreras",
+    "rut": "14373141-3",
+    "cargo": "Enfermero Urgencias",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Carol Paz Quinteros Muñoz",
+    "rut": "19652143-7",
+    "cargo": "Enfermera Medicina",
+    "foto": "https://i.imgur.com/BcL4udP.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Carolina Carrasco Jofré",
+    "rut": "16557584-9",
+    "cargo": "Enfermera UHCIP",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Carolina Andrea Jara Urra",
+    "rut": "17935282-6",
+    "cargo": "Enfermera Gestión Quirúrgica",
+    "foto": "https://i.imgur.com/K83JthU.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Catalina Guerrero Kayser",
+    "rut": "20078377-8",
+    "cargo": "Enfermera Pabellón",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Catalina Nahuelhual Perez",
+    "rut": "19073168-5",
+    "cargo": "Enfermera  UCI",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Catalina Belen Parada Mercado",
+    "rut": "19169656-5",
+    "cargo": "Enfermera Unidad Gestion del riesgo en Salud",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Cecilia Quijada Araya",
+    "rut": "13873673-3",
+    "cargo": "Enfermera Medicina",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Cecilia Torres Guzman",
+    "rut": "19169095-8",
+    "cargo": "Enfermera Medicina",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Constanza Catalina Ramirez Contreras",
+    "rut": "19073630-k",
+    "cargo": "Enfermera TMT",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Constanza Verónica Herrera Saldias",
+    "rut": "19652537-8",
+    "cargo": "Enfermera Urgencias",
+    "foto": "https://i.imgur.com/trYHmut.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Cynthia Ortega Molina",
+    "rut": "16322856-4",
+    "cargo": "Enfermera Urgencias",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Daniela Lazcano Labrin",
+    "rut": "17351213-9",
+    "cargo": "Enfermera GES",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Diana Camila Contreras Torres",
+    "rut": "19169186-5",
+    "cargo": "Enfermera UCI",
+    "foto": "https://i.imgur.com/Un1GD7B.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Doris González San Martin",
+    "rut": "18490047-5",
+    "cargo": "Enfermera UGCC",
+    "foto": "https://i.imgur.com/4PWgvGL.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Edith Flores Molina",
+    "rut": "12815830-8",
+    "cargo": "Enfermera Telemedicina",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Elen Tapia Parada",
+    "rut": "18287002-1",
+    "cargo": "Enfermera Medicina",
+    "foto": "https://i.imgur.com/8MO73QS.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Estrella Carrasco Muñoz",
+    "rut": "16759862-5",
+    "cargo": "Enfermera UTI",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Fabiola Taj Taj Caballero",
+    "rut": "10357027-1",
+    "cargo": "Enfermera CMI",
+    "foto": "https://i.imgur.com/9a8gGi1.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Francisca Acuña Briones",
+    "rut": "19168923-2",
+    "cargo": "Enfermera Urgencias",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Francisca Guerra Valenzuela",
+    "rut": "19824127-k",
+    "cargo": "Gestión Quirúrgica",
+    "foto": "https://i.imgur.com/BuZZ9G0.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Giselle Canales Shulze",
+    "rut": "18315559-8",
+    "cargo": "Enfermera CMA",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Giselle Cardenas Roca",
+    "rut": "17216970-8",
+    "cargo": "Enfermera Medicina",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Gloria Pereira Araya",
+    "rut": "9308858-1",
+    "cargo": "Enfermera Urgencias",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Gustavo Almonacid Cardenas",
+    "rut": "18476689-2",
+    "cargo": "Enfermero Medicina",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Héctor Cerda Muñoz",
+    "rut": "20620106-1",
+    "cargo": "Enfermero UCI",
+    "foto": "https://i.imgur.com/cmQqbOZ.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Helen López Hernández",
+    "rut": "15157892-6",
+    "cargo": "Enfermera Urgencias",
+    "foto": "https://i.imgur.com/8VatJXf.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Ivonne Guzmán Gajardo",
+    "rut": "14303657-k",
+    "cargo": "Enfermera jefe Depto Gestión Quirúrgica",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Jacqueline Navarrete Sepulveda",
+    "rut": "18788588-4",
+    "cargo": "Enfermera Medicina",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Javier Villa Fuentes",
+    "rut": "18267380-3",
+    "cargo": "Enfermero Medicina",
+    "foto": "https://i.imgur.com/1dSvV4g.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Jenny Parra Fernández",
+    "rut": "15699752-8",
+    "cargo": "Enfermera Urgencias",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Jocelyn Maldonado Cerda",
+    "rut": "17990368-7",
+    "cargo": "Enfermera Cirugia",
+    "foto": "https://i.imgur.com/o8rGMJy.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Jocelyn Andrea Navarrete Figueroa",
+    "rut": "18431446-0",
+    "cargo": "Enfermera UCI",
+    "foto": "https://i.imgur.com/heAenai.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Jocelyn Beatriz Salas Montecinos ",
+    "rut": "18771260-2",
+    "cargo": "Enfermera Medicina ",
+    "foto": "https://i.imgur.com/lFy6r6y.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Johana Parra Navarrete",
+    "rut": "16535980-1",
+    "cargo": "Enfermera Medicina",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Johana Odette Caro Crisostomo",
+    "rut": "15159763-7",
+    "cargo": "Enfermera Medicina",
+    "foto": "https://i.imgur.com/haf1NLN.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Jose Fermando Medina Saez",
+    "rut": "19374287-4",
+    "cargo": "Enfermero UCI",
+    "foto": "https://i.imgur.com/sLJV5yS.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Juana Trinidad Urra Parada",
+    "rut": "9320455-7",
+    "cargo": "Enfermera DIG",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Karina Candia Poblete",
+    "rut": "14278389-4",
+    "cargo": "Enfermera TMT",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Karina Andrea Neira Molina",
+    "rut": "19168990-9",
+    "cargo": "Servicio Urgencias",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Karina Soledad Muñoz Fuentes",
+    "rut": "19168952-6",
+    "cargo": "Enfermera UHCIP",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Katerine Arias Valencia",
+    "rut": "13971986-7",
+    "cargo": "Enfermera Urgencias",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Katherinne Mora Flores",
+    "rut": "17988664-2",
+    "cargo": "Enfermera UCI",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Lilibeth Ortega Molina",
+    "rut": "15810116-5",
+    "cargo": "Enfermera UCI",
+    "foto": "https://i.imgur.com/nabppic.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Lorena Vasquez Ortega",
+    "rut": "13793851-0",
+    "cargo": "Enfermera Urgencias",
+    "foto": "https://i.imgur.com/d85abST.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Luis Bascuñan Bustos",
+    "rut": "14268975-8",
+    "cargo": "Enfermero Urgencias",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Macarena Barahona Acuña",
+    "rut": "16497471-5",
+    "cargo": "Enfermera UTI",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Makarena Fuentes Torres",
+    "rut": "18268043-5",
+    "cargo": "Enfermera Emergencias",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Maria Beatriz Solis Cofré",
+    "rut": "18215869-0",
+    "cargo": "Enfermera Telemedicina",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Maria Jose Campos Constanzo",
+    "rut": "19225969-k",
+    "cargo": "Enfermera Enlace oncológico",
+    "foto": "https://i.imgur.com/J5NDwZt.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Maria José Alarcón Pino",
+    "rut": "18454175-0",
+    "cargo": "Enfermera Gestión quirúrgica",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Maria José Cartes Villagran",
+    "rut": "17754913-4",
+    "cargo": "Enfermera Cardiologia",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Maria Lorena Navarro Silva",
+    "rut": "10112476-2",
+    "cargo": "Enfermera  Calidad",
+    "foto": "https://i.imgur.com/sZk8JAL.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Maria Paz Garcia Vargas",
+    "rut": "16574869-7",
+    "cargo": "Enfermera CMI",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Maria Verónica Morales Faundez",
+    "rut": "12376503-6",
+    "cargo": "Enfermera Medicina",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Maria Jose Troncoso Henriquez",
+    "rut": "18156195-5",
+    "cargo": "Enfermera UHCIP",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Marielly Paredes Meza",
+    "rut": "18432346-k",
+    "cargo": "Enfermera Medicina",
+    "foto": "https://i.imgur.com/N1k2rjx.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Maritza Yazmin Biernay Morales",
+    "rut": "19823685-3",
+    "cargo": "Enfermera urgencia ",
+    "foto": "https://i.imgur.com/dIJYBcp.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Marlene Espinoza Fuentes",
+    "rut": "16220125-5",
+    "cargo": "Enfermera Esterilización",
+    "foto": "https://i.imgur.com/fibkzBA.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Matias Vasquez Cueto",
+    "rut": "18772297-7",
+    "cargo": "Enfermero UTI",
+    "foto": "https://i.imgur.com/iWos20P.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Melissa Rivera Sepulveda",
+    "rut": "19486766-2",
+    "cargo": "Enfermera UGCC",
+    "foto": "https://i.imgur.com/D5JfNI3.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Miriam Angélica Castillo Sandoval",
+    "rut": "11534974-0",
+    "cargo": "Enfermera UCI",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Natalia Muñoz Martinez",
+    "rut": "17989494-7",
+    "cargo": "Enfermera urgencias",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Natalia Lubones Godoy",
+    "rut": "16217970-5",
+    "cargo": "Enfermera Gestión oncológica",
+    "foto": "https://i.imgur.com/SOzQdFj.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Natalia AndreaContreras Vallejos",
+    "rut": "16735698-2",
+    "cargo": "Enfermera Cirugia",
+    "foto": "https://i.imgur.com/mEcxNIc.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Paula Parra Cabezas",
+    "rut": "18430626-3",
+    "cargo": "Enfermera Medicina",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Paulina Diaz Jaque",
+    "rut": "16218458-k",
+    "cargo": "Enfermera Pediatria",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Paulina Neira Barria",
+    "rut": "17129198-4",
+    "cargo": "Enfermera Gestíon Quirúrgica",
+    "foto": "https://i.imgur.com/4IJexjU.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Paz Valentina Del Solar Reveco",
+    "rut": "17920859-8",
+    "cargo": "Enfermera Urgencias",
+    "foto": "https://i.imgur.com/6uRyrZu.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Roberto Concha Vega ",
+    "rut": "17988730-4",
+    "cargo": "Enfermero urgencia ",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Roberto Pantoja Flores",
+    "rut": "14304430-0",
+    "cargo": "Enfermera Medicina",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Rocio Paulina Gutierrez Duarte ",
+    "rut": "19168664-0",
+    "cargo": "Enfermera urgencia ",
+    "foto": "https://i.imgur.com/rs4G7B0.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Scarlet Valenzuela Contreras",
+    "rut": "18789416-6",
+    "cargo": "Enfermera Medicina",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Sebastián Rubilar Palavecino",
+    "rut": "20111539-8",
+    "cargo": "Enfermero UCI",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Valentina Medel Bravo ",
+    "rut": "19486413-2",
+    "cargo": "Enfermera UE ",
+    "foto": "https://i.imgur.com/Z2GIb2W.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Victoria Malverde Rivero",
+    "rut": "18155474-6",
+    "cargo": "Enfermera Medicina",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Viviana González Oviedo",
+    "rut": "11536742-0",
+    "cargo": "Enfermera DGU",
+    "foto": "https://i.imgur.com/CnyO9zq.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Viviana Espinoza Beltran",
+    "rut": "16220593-5",
+    "cargo": "Enfermera GES",
+    "foto": "https://i.imgur.com/itzwUa4.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Yasna Parra Escalona",
+    "rut": "19274099-1",
+    "cargo": "Enfermera UHCIP",
+    "foto": "https://i.imgur.com/PMoD56b.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Yenifer Andrea Figueroa Sepulveda",
+    "rut": "19415304-k",
+    "cargo": "Enfermera  Gestión quirúrgica",
+    "foto": "https://i.imgur.com/bpR8mRF.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Yessenia Ivania Silva Diaz",
+    "rut": "18560192-7",
+    "cargo": "Enfermera Medicina",
+    "foto": "https://i.imgur.com/1RxCmkw.png",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Yocelin Diaz Agurto",
+    "rut": "19098482-6",
+    "cargo": "Enfermera Urgencias",
+    "foto": "https://placehold.co/150x150/EFEFEF/AAAAAA&text=Sin+Foto",
+    "vence": "INDEFINIDO"
+  },
+  {
+    "nombre": "Felipe Lagos Fernandez",
+    "rut": "",
+    "cargo": "Sin Cargo",
+    "foto": "https://i.imgur.com/nP7kqgQ.png",
+    "vence": "INDEFINIDO"
+  }
+]
